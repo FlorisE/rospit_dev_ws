@@ -1,0 +1,6 @@
+[submodule "src/rospit_msgs"]
+	path = src/rospit_msgs
+	url = https://github.com/FlorisE/rospit_msgs
+[submodule "src/rospit"]
+	path = src/rospit
+	url = https://github.com/FlorisE/rospit
